@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\bin\Debug\net8.0\challengeProject3.exe
+E:\freeCodeCamp\CsharpProjects\challengeProject3\bin\Debug\net8.0\challengeProject3.deps.json
+E:\freeCodeCamp\CsharpProjects\challengeProject3\bin\Debug\net8.0\challengeProject3.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\bin\Debug\net8.0\challengeProject3.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\bin\Debug\net8.0\challengeProject3.pdb
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\refint\challengeProject3.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject3\obj\Debug\net8.0\challengeProject3.pdb
+E:\freeCodeCamp\CsharpProjects\challengeProject3\obj\Debug\net8.0\challengeProject3.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\challengeProject3\obj\Debug\net8.0\ref\challengeProject3.dll

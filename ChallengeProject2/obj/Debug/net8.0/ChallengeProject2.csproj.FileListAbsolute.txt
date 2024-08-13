@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\bin\Debug\net8.0\ChallengeProject2.exe
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\bin\Debug\net8.0\ChallengeProject2.deps.json
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\bin\Debug\net8.0\ChallengeProject2.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\bin\Debug\net8.0\ChallengeProject2.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\bin\Debug\net8.0\ChallengeProject2.pdb
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\refint\ChallengeProject2.dll
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.pdb
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ChallengeProject2.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\ChallengeProject2\obj\Debug\net8.0\ref\ChallengeProject2.dll
