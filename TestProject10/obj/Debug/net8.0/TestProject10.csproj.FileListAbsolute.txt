@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.exe
+E:\freeCodeCamp\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.deps.json
+E:\freeCodeCamp\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.dll
+E:\freeCodeCamp\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.dll
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\refint\TestProject10.dll
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\TestProject10\obj\Debug\net8.0\ref\TestProject10.dll

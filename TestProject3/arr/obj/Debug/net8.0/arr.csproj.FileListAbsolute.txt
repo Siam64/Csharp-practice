@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\bin\Debug\net8.0\arr.exe
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\bin\Debug\net8.0\arr.deps.json
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\bin\Debug\net8.0\arr.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\bin\Debug\net8.0\arr.dll
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\bin\Debug\net8.0\arr.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.dll
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\refint\arr.dll
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\arr.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\TestProject3\arr\obj\Debug\net8.0\ref\arr.dll

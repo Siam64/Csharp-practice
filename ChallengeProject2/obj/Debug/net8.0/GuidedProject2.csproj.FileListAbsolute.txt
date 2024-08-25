@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\bin\Debug\net8.0\GuidedProject2.exe
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\bin\Debug\net8.0\GuidedProject2.deps.json
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\bin\Debug\net8.0\GuidedProject2.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\bin\Debug\net8.0\GuidedProject2.dll
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\bin\Debug\net8.0\GuidedProject2.pdb
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.dll
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\refint\GuidedProject2.dll
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.pdb
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\GuidedProject2.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\GuidedProject2\obj\Debug\net8.0\ref\GuidedProject2.dll

@@ -1,0 +1,14 @@
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\bin\Debug\net8.0\subscription.exe
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\bin\Debug\net8.0\subscription.deps.json
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\bin\Debug\net8.0\subscription.runtimeconfig.json
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\bin\Debug\net8.0\subscription.dll
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\bin\Debug\net8.0\subscription.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.GeneratedMSBuildEditorConfig.editorconfig
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.AssemblyInfoInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.AssemblyInfo.cs
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.csproj.CoreCompileInputs.cache
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.dll
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\refint\subscription.dll
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.pdb
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\subscription.genruntimeconfig.cache
+E:\freeCodeCamp\CsharpProjects\TestProject2\subscription\obj\Debug\net8.0\ref\subscription.dll
